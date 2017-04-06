@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 using static System.Diagnostics.Debug;
 
-namespace Api.Helpers
+namespace UrlGen
 {
     internal class StringValue : System.Attribute
     {
